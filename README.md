@@ -1,8 +1,12 @@
-# Fluorescence-Quantum-Yield
+Calcs:
 
-Calcs
-  - results:  In this folder you are going to encounter some of the obtained results.
-  - databases:  In this folder you are going to enconter the databases information.
+- Results: In this folder, you will find some of the obtained results.
+- Databases: In this folder, you will find information related to the databases.
 
-Scripts
-  - You are going to encounter the script specifically made for this project.
+Scripts:
+
+Here, you will find the script specifically created for this project.
+
+Reports:
+
+You will find the reports prepared for the project in this section.
